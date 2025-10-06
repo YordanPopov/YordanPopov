@@ -22,7 +22,7 @@ Here are some of the tools and technologies I work with:
 
 ## 📂 Projects
 
-### 🧪 [foody-PW-Framework](https://github.com/YordanPopov/foody-PW-Framework)
+### ⚙️ [foody-PW-Framework](https://github.com/YordanPopov/foody-PW-Framework)
 A **Playwright test automation framework** for testing the Foody web application.  
 - Built using **Playwright with TypeScript**  
 - Implements the **Page Object Model (POM)**  
