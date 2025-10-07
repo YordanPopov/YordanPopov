@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hi! 👋  
 I’m **Yordan Popov** — a QA enthusiast actively seeking my first role in Quality Assurance.
 
 ---
