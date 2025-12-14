@@ -1,5 +1,5 @@
 # Hi! 👋  
-I’m **Yordan Popov** — a QA enthusiast actively seeking my first role in Quality Assurance.
+I’m **Yordan Popov** — a QA enthusiast.
 
 ---
 
@@ -31,31 +31,9 @@ A **Playwright test automation framework** for testing the Foody web application
 
 ### ⚙️ [Idea-center-PW-Framework](https://github.com/YordanPopov/Idea-center-PW-Framework)
 A **Playwright framework** designed to automate testing for the Idea Center platform.  
-- Developed with **Playwright + TypeScript**  
+- Developed with **Playwright with TypeScript**  
 - Follows **modular and maintainable architecture**  
-- Designed for scalability and team collaboration  
-
----
-
-## 📚 Learning Goals
-
-- Expand experience in **UI and API test automation**  
-- Improve skills in **framework design** and **test architecture**  
-- Explore **CI/CD pipelines** and automated test integration  
-- Practice **performance and security testing** techniques  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YordanPopov&show_icons=true&theme=tokyonight" alt="Yordan's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YordanPopov&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YordanPopov&theme=tokyonight" alt="GitHub Streak" height="160" />
-</p>
+- Designed for scalability and team collaboration
 
 ---
 
